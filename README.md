@@ -88,3 +88,5 @@ https://github.com/ravonek/lexium-cobot-pick-and-place
 ```
 
 The `docs/` folder contains the Assignment #02 technical report copy and figures used in the Word submission.
+
+For a short recorded demo, see `VIDEO_GUIDE.md` and `docs/demo_preview.gif`.
