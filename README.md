@@ -67,4 +67,10 @@ This folder is ready to upload to GitHub as:
 lexium-cobot-pick-and-place
 ```
 
-After upload, add the final GitHub URL to the technical report.
+Public repository:
+
+```text
+https://github.com/ravonek/lexium-cobot-pick-and-place
+```
+
+The `docs/` folder contains the Assignment #02 technical report copy and figures used in the Word submission.
