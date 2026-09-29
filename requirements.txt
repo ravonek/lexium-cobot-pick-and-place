@@ -1,0 +1,4 @@
+# No pip-only dependencies are required for the demo nodes.
+# Run inside a ROS2 environment that already provides:
+# - rclpy
+# - std_msgs

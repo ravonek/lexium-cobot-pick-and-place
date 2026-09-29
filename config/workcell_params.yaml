@@ -1,0 +1,12 @@
+workcell:
+  robot: "Schneider Electric Lexium Cobot LXMRL03S0000"
+  payload_kg: 3.0
+  reach_mm: 626
+  sensor: "Intel RealSense D435i RGB-D camera"
+  simulation: "Isaac Sim / Isaac Lab"
+  current_status: "fixed-base stability in progress"
+
+topics:
+  camera_detection: "/camera/object_pose"
+  pick_goal: "/planner/pick_goal"
+  device_command: "/lexium_cobot/device_command"
