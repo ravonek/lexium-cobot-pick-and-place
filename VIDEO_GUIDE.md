@@ -25,3 +25,7 @@ This is a local fallback demo because ROS2 is not installed on this presentation
 ## Backup visual
 
 `docs/demo_preview.gif` is a simple animated preview of the same signal flow. Use it only as supporting visual material; the strongest demo is a screen recording of the terminal run.
+
+`docs/simulation_demo.gif` is a schematic pick-and-place simulation preview. It shows the camera detecting a cube, the Lexium Cobot arm approaching, grasping, lifting, moving and placing the cube, while the ROS topics are shown at the bottom. It is a project visualization, not a real Isaac Sim recording.
+
+If a real Isaac Sim video is required, record it on the machine where Isaac Sim / Isaac Lab is installed and show the imported Lexium Cobot scene, cube, target and current fixed-base stability work.
