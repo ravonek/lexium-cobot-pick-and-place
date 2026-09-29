@@ -35,6 +35,20 @@ This satisfies the assignment requirement for sensor input, actuator/device outp
 
 ## Demo Run
 
+If ROS2 is not installed on the presentation computer, run the local fallback first:
+
+```bash
+python3 demo_no_ros.py
+```
+
+This prints the same assignment flow without ROS middleware:
+
+```text
+camera detection -> pick goal -> Lexium Cobot device command
+```
+
+For the real ROS2 launch:
+
 ```bash
 cd lexium-cobot-pick-and-place
 colcon build
